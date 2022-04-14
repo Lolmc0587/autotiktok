@@ -1,7 +1,7 @@
 colorama
 console
+ntplib
 PyYAML
 requests
 selenium
-undetected_chromedriver==3.1.3
-windows-curses
+undetected_chromedriver

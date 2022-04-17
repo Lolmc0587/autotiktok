@@ -4,4 +4,5 @@ ntplib
 PyYAML
 requests
 selenium
-undetected_chromedriver
+selenium-stealth
+undetected_chromedriver==3.1.3

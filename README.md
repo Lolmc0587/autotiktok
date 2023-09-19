@@ -1,8 +1,11 @@
 # Autotiktok
 
-Download at: https://www.mediafire.com/file/apjjv6hec0bqjam/run_tool.rar/file
+Download at: https://www.mediafire.com/file/52on7f0ci06hb3c/run_tool.rar/file
 
 # Changelogs: 
+- 4.0.6:
+  * Nâng cấp code backend quản lí tool
+  * Thêm kiểm tra nếu cookies bị die
 - 4.0.5:
   * Fixed lỗi không tim được video 
   * Quay lại bản selenium cũ
@@ -46,6 +49,7 @@ Download at: https://www.mediafire.com/file/apjjv6hec0bqjam/run_tool.rar/file
 - 3.2.7:
   * Thêm tự cấu hình tds (selenium)
   * Fix tim không tìm thấy video
+
 
 
 

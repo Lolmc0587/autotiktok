@@ -3,6 +3,12 @@
 Download at: https://www.mediafire.com/file/52on7f0ci06hb3c/run_tool.rar/file
 
 # Changelogs:
+- 4.0.8:
+  * Đã tắt shortlink
+  * Fix lỗi hiển thị tds
+  * Thêm 1stcaptcha
+  * Xoá kiểm tra cookie follow
+  * Fix backend.
 - 4.0.7: 
   * Fix lỗi không thể gởi username về server host 
   * Thêm giải captcha tds (2captcha) 

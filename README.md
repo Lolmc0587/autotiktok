@@ -1,8 +1,15 @@
 # Autotiktok
 
-Download at: https://www.mediafire.com/file/52on7f0ci06hb3c/run_tool.rar/file
+Download at: (Updating)
 
-# Changelogs:
+# Changelogs: 
+- 4.0.9:
+  * Fixed hwid get
+  * Fixed cheat
+  * Cập nhật selenium.
+  * Reset thông tin luồng khi ấn stop.
+  * Đã fix xoá profile
+  * Fix lỗi bị mất thời gian dùng tool
 - 4.0.8:
   * Đã tắt shortlink
   * Fix lỗi hiển thị tds
@@ -11,7 +18,7 @@ Download at: https://www.mediafire.com/file/52on7f0ci06hb3c/run_tool.rar/file
   * Fix backend.
 - 4.0.7: 
   * Fix lỗi không thể gởi username về server host 
-  * Thêm giải captcha tds (2captcha) 
+  * Thêm giải captcha tds (2captcha)
 - 4.0.6:
   * Nâng cấp code backend quản lí tool
   * Thêm kiểm tra nếu cookies bị die
@@ -58,8 +65,3 @@ Download at: https://www.mediafire.com/file/52on7f0ci06hb3c/run_tool.rar/file
 - 3.2.7:
   * Thêm tự cấu hình tds (selenium)
   * Fix tim không tìm thấy video
-
-
-
-
-

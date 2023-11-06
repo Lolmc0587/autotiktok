@@ -1,6 +1,6 @@
 # Autotiktok
 
-Download at: (Updating)
+Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 
 # Changelogs: 
 - 4.0.9:
@@ -10,6 +10,7 @@ Download at: (Updating)
   * Reset thông tin luồng khi ấn stop.
   * Đã fix xoá profile
   * Fix lỗi bị mất thời gian dùng tool
+  * Đã thêm updater.bat
 - 4.0.8:
   * Đã tắt shortlink
   * Fix lỗi hiển thị tds

@@ -3,6 +3,13 @@
 Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 
 # Changelogs: 
+- 5.0.0: 
+  * Tắt popup enhanced ad privacy của chrome lúc khởi động
+  * Thêm zoom.
+  * Fix import acc(Hỗ trợ cookies|user|pass, cookie|token, user|pass|user_api|pass_api)
+  * Hỗ trợ HMA
+  * Fix key.
+  * Bây giờ tool đã mượt hơn, chạy được nhiều luồng hơn.
 - 4.0.9:
   * Fixed hwid get
   * Fixed cheat

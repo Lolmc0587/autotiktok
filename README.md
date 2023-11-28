@@ -1,7 +1,7 @@
 # Autotiktok
 
 Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
-
+Hoặc cập nhật bằng update.bat
 # Changelogs: 
 - 5.0.0: 
   * Tắt popup enhanced ad privacy của chrome lúc khởi động

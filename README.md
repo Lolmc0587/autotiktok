@@ -3,6 +3,13 @@
 Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 # Changelogs: 
+- 5.5.0:
+  * Thu nhỏ chrome gọn
+  * Chỉnh sửa giao diện
+  * Thêm acc nhanh
+  * Thêm xếp chrome
+  * Fix giải captcha 
+  * FIx auto login
 - 5.0.0: 
   * Tắt popup enhanced ad privacy của chrome lúc khởi động
   * Thêm zoom.

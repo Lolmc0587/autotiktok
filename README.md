@@ -3,6 +3,12 @@
 Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 # Changelogs: 
+- 5.5.1:
+  * Fix đăng nhập tds, ttc lỗi
+  * Fix lỗi cấu hình  
+  * Fix khi lỗi luồng không dừng hoàn toàn
+  * Fix captcha không tự refresh khi bị lỗi
+  * Thêm tính năng tìm user tiktok 
 - 5.5.0:
   * Thu nhỏ chrome gọn
   * Chỉnh sửa giao diện

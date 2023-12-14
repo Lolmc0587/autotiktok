@@ -3,6 +3,8 @@
 Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 # Changelogs: 
+- 5.5.2:
+  * Đổi api captcha sang cap.guru
 - 5.5.1:
   * Fix đăng nhập tds, ttc lỗi
   * Fix lỗi cấu hình  

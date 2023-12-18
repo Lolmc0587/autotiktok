@@ -3,6 +3,8 @@
 Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 # Changelogs: 
+- 5.5.3: 
+  * Thêm check captcha sau khi click follow 
 - 5.5.2:
   * Đổi api captcha sang cap.guru
 - 5.5.1:

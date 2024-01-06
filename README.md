@@ -3,6 +3,8 @@
 Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 # Changelogs: 
+- 5.5.7:
+  * Fix tool đơ khi gặp captcha ;/
 - 5.5.6:
   * Fix lỗi tool không tự bấm nút Refresh khi không giải được captcha
 - 5.5.5:

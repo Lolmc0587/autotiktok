@@ -2,7 +2,11 @@
 
 Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
+
 # Changelogs:
+- 5.5.9:
+  * Tạm fix đơ luồng (cần test thêm) 
+  * Thêm auto thay acc qua cookie
 - 5.5.8:
   * Fix developer bug :))
   * Bật lại 2 tab khi follow 

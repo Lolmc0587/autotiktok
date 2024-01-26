@@ -4,10 +4,14 @@ Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 
 # Changelogs:
+- 5.6.2:
+  * Fix auto login
+  * Fix lỗi xếp tab khi dừng luồng đột ngột
+  * Thêm số lần thử lại khi nhận 0 xu
 - 5.6.1:
   * Tự refresh trang khi mạng lag
   * Fix đơ captcha
-  * Đã fix gui đứng khi dừng luồng  
+  * Đã fix gui lag khi dừng luồng  
 - 5.6.0: 
   * Fix không cấu hình nhẹ được
   * Thêm con trỏ chuột

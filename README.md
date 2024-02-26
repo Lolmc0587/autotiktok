@@ -5,6 +5,7 @@ Hoặc cập nhật bằng update.bat
 
 # Changelogs:
 - 5.6.4:
+  * Hỗ trợ cookies
   * Thêm lấy cookie
   * Thêm up video
   * Thêm up avatar 

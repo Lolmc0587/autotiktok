@@ -4,6 +4,16 @@ Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 
 # Changelogs:
+- 5.6.4:
+  * Thêm lấy cookie
+  * Thêm up video
+  * Thêm up avatar 
+  * Fix lấy job ttc
+  * Fix tải chromedriver > 121
+- 5.6.3:
+  * Fix log token tds
+  * Thêm auto log cookies
+  * Fix lỗi xếp tab
 - 5.6.2:
   * Fix auto login
   * Fix lỗi xếp tab khi dừng luồng đột ngột
@@ -47,7 +57,7 @@ Hoặc cập nhật bằng update.bat
   * Thêm acc nhanh
   * Thêm xếp chrome
   * Fix giải captcha 
-  * FIx auto login
+  * Fix auto login
 - 5.0.0: 
   * Tắt popup enhanced ad privacy của chrome lúc khởi động
   * Thêm zoom.

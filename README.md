@@ -4,6 +4,10 @@ Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 
 # Changelogs:
+- 5.6.5:
+  * Đổi ngôn ngữ trình duyệt qua vn
+  * Auto log, captcha, lấy cookie, up avatar, up video đã hỗ trợ tiếng việt
+  * Fix auto up video không up video
 - 5.6.4:
   * Hỗ trợ cookies
   * Thêm lấy cookie

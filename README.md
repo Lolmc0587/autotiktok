@@ -4,6 +4,14 @@ Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 
 # Changelogs:
+- 5.6.7:
+  * Fix lỗi nhận dạng loại captcha
+  * Fix upload video
+  * Thêm đăng nhập titkok bằng google
+  * Fix login tool (login nhanh hơn)
+  * Fix cmt tiktok
+  * Tool sẽ ở trên cùng cửa sổ khác(khi tắt hoặc bật cần khởi động lại để áp dụng)
+  * Cải thiện build -> tool nhẹ hơn
 - 5.6.6:
   * Fix log cookie không tự dừng khi cookie die
   * Chia gói thuê tool

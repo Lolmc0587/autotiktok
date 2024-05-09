@@ -7,7 +7,7 @@ Hoặc cập nhật bằng update.bat
 - 5.6.7:
   * Fix lỗi nhận dạng loại captcha
   * Fix upload video
-  * Thêm đăng nhập titkok bằng google
+  * Thêm đăng nhập titkok bằng google (chỉ có trong lấy cookie)
   * Fix login tool (login nhanh hơn)
   * Fix cmt tiktok
   * Tool sẽ ở trên cùng cửa sổ khác(khi tắt hoặc bật cần khởi động lại để áp dụng)

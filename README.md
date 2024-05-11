@@ -4,10 +4,12 @@ Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 
 # Changelogs:
+- 5.6.8:
+  * Fix lỗi tiktok không log được google (Sử dụng xếp cửa sổ mới hoạt động được)
 - 5.6.7:
   * Fix lỗi nhận dạng loại captcha
   * Fix upload video
-  * Thêm đăng nhập titkok bằng google (chỉ có trong lấy cookie)
+  * Thêm đăng nhập titkok bằng google (Chỉ có role Member và LayCookie)
   * Fix login tool (login nhanh hơn)
   * Fix cmt tiktok
   * Tool sẽ ở trên cùng cửa sổ khác(khi tắt hoặc bật cần khởi động lại để áp dụng)

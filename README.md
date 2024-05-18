@@ -4,6 +4,10 @@ Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 
 # Changelogs:
+- 5.6.9:
+  * Fix lỗi không tự lưu phiên bản chromedriver khi sai
+  * Fix lỗi bị đơ khi log tài khoản google chưa đăng kí tiktok (thêm timeout)
+  * Thêm chế độ force dark mode 
 - 5.6.8:
   * Fix lỗi tiktok không log được google (Sử dụng xếp cửa sổ mới hoạt động được)
 - 5.6.7:

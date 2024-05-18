@@ -5,6 +5,7 @@ Hoặc cập nhật bằng update.bat
 
 # Changelogs:
 - 5.6.9:
+  * Tắt lưu cache ttc
   * Fix lỗi không tự lưu phiên bản chromedriver khi sai
   * Fix lỗi bị đơ khi log tài khoản google chưa đăng kí tiktok (thêm timeout)
   * Thêm chế độ force dark mode 

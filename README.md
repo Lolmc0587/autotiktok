@@ -4,8 +4,11 @@ Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 
 # Changelogs:
+- 5.7.0:
+  * Thêm đổi username và họ tên, thêm tuỳ chọn chọn luồng mới (tool lấy cookies)
+  * Cập nhật selenium 4.21.0
+  * Fix tiktok login user|pass
 - 5.6.9:
-  * Tắt lưu cache ttc
   * Fix lỗi không tự lưu phiên bản chromedriver khi sai
   * Fix lỗi bị đơ khi log tài khoản google chưa đăng kí tiktok (thêm timeout)
   * Thêm chế độ force dark mode 

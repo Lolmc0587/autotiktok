@@ -4,6 +4,10 @@ Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 
 # Changelogs:
+- 5.7.1: 
+  * Chỉnh host về landpudin.pro
+  * Lưu trạng thái khi chạy auto TikTok cookie 
+  * Cập nhật selenium lên 4.22.0
 - 5.7.0:
   * Thêm đổi username và họ tên, thêm tuỳ chọn chọn luồng mới (tool lấy cookies)
   * Cập nhật selenium 4.21.0

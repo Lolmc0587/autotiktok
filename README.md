@@ -2,6 +2,7 @@
 
 Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
+Password: 1111
 
 # Changelogs:
 - 5.7.2:

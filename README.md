@@ -5,11 +5,14 @@ Hoặc cập nhật bằng update.bat
 Password: 1111
 
 # Changelogs:
+- 5.7.3:
+  * Thêm 3xcaptcha
+  * Fix bug chế độ tim
 - 5.7.2:
   * Fix lấy cookies bị reload liên tục
-- 5.7.1: 
+- 5.7.1:
   * Chỉnh host về landpudin.pro
-  * Lưu trạng thái khi chạy auto TikTok cookie 
+  * Lưu trạng thái khi chạy auto TikTok cookie
   * Cập nhật selenium lên 4.22.0
 - 5.7.0:
   * Thêm đổi username và họ tên, thêm tuỳ chọn chọn luồng mới (tool lấy cookies)
@@ -18,7 +21,7 @@ Password: 1111
 - 5.6.9:
   * Fix lỗi không tự lưu phiên bản chromedriver khi sai
   * Fix lỗi bị đơ khi log tài khoản google chưa đăng kí tiktok (thêm timeout)
-  * Thêm chế độ force dark mode 
+  * Thêm chế độ force dark mode
 - 5.6.8:
   * Fix lỗi tiktok không log được google (Sử dụng xếp cửa sổ mới hoạt động được)
 - 5.6.7:
@@ -40,7 +43,7 @@ Password: 1111
   * Hỗ trợ cookies
   * Thêm lấy cookie
   * Thêm up video
-  * Thêm up avatar 
+  * Thêm up avatar
   * Fix lấy job ttc
   * Fix tải chromedriver > 121
 - 5.6.3:
@@ -54,12 +57,12 @@ Password: 1111
 - 5.6.1:
   * Tự refresh trang khi mạng lag
   * Fix đơ captcha
-  * Đã fix gui lag khi dừng luồng  
-- 5.6.0: 
+  * Đã fix gui lag khi dừng luồng
+- 5.6.0:
   * Fix không cấu hình nhẹ được
   * Thêm con trỏ chuột
 - 5.5.9:
-  * Tạm fix đơ luồng (cần test thêm) 
+  * Tạm fix đơ luồng (cần test thêm)
   * Thêm auto thay acc qua cookie
 - 5.5.8:
   * Fix developer bug :))
@@ -70,28 +73,28 @@ Password: 1111
   * Fix lỗi tool không tự bấm nút Refresh khi không giải được captcha
 - 5.5.5:
   * Fix lỗi captcha chọn 2 giống nhau(tỉ lệ giải thấp có thể bị sai nhiều)
-  * Fix lỗi tool đơ máy 
+  * Fix lỗi tool đơ máy
   * Xoá GUI cũ
 - 5.5.4:
   * Thêm tự refresh captcha khi không phản hồi
-- 5.5.3: 
-  * Thêm check captcha sau khi click follow 
+- 5.5.3:
+  * Thêm check captcha sau khi click follow
 - 5.5.2:
   * Đổi api captcha sang cap.guru
 - 5.5.1:
   * Fix đăng nhập tds, ttc lỗi
-  * Fix lỗi cấu hình  
+  * Fix lỗi cấu hình
   * Fix khi lỗi luồng không dừng hoàn toàn
   * Fix captcha không tự refresh khi bị lỗi
-  * Thêm tính năng tìm user tiktok 
+  * Thêm tính năng tìm user tiktok
 - 5.5.0:
   * Thu nhỏ chrome gọn
   * Chỉnh sửa giao diện
   * Thêm acc nhanh
   * Thêm xếp chrome
-  * Fix giải captcha 
+  * Fix giải captcha
   * Fix auto login
-- 5.0.0: 
+- 5.0.0:
   * Tắt popup enhanced ad privacy của chrome lúc khởi động
   * Thêm zoom.
   * Fix import acc(Hỗ trợ cookies|user|pass, cookie|token, user|pass|user_api|pass_api)
@@ -112,14 +115,14 @@ Password: 1111
   * Thêm 1stcaptcha
   * Xoá kiểm tra cookie follow
   * Fix backend.
-- 4.0.7: 
-  * Fix lỗi không thể gởi username về server host 
+- 4.0.7:
+  * Fix lỗi không thể gởi username về server host
   * Thêm giải captcha tds (2captcha)
 - 4.0.6:
   * Nâng cấp code backend quản lí tool
   * Thêm kiểm tra nếu cookies bị die
 - 4.0.5:
-  * Fixed lỗi không tim được video 
+  * Fixed lỗi không tim được video
   * Quay lại bản selenium cũ
   * End?
 
@@ -132,32 +135,32 @@ Password: 1111
   * Fixed check follow
   * Đã điều chỉnh code lấy job, code đăng nhập ttc và tds
   * Cập nhật selenium, undetected-chromedriver
-  
+
 - 4.0.2:
   * Đã fix browser không tắt hoàn toàn sau khi dừng luồng
   * Đã Fix tải chromedriver
   * Hiệu chỉnh anti detect
-  
+
 - 4.0.1:
   * fix check tim
   * điều chỉnh anti detect
   * fix lỗi mất key free sau khi khởi động lại
-  
+
 - 4.0.0:
   * Big update (chuyển từ tkinter sang pyqt5)
 - 3.3.6:
   * Fix nhẹ
-  
+
 - 3.3.2:
   * Fix follow
-  
+
 - 3.3.1:
   * Fix tim
   * Fix tool không chạy được
-  
+
 - 3.2.9:
   * Tắt load extension tự động cho người dùng free(ai đã mua vẫn sài bình thường)
-  
+
 - 3.2.7:
   * Thêm tự cấu hình tds (selenium)
   * Fix tim không tìm thấy video

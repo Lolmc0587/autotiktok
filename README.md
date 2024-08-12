@@ -4,6 +4,8 @@ Download at: https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 Password: 1111
 # Changelogs:
+- 5.7.5:
+  * Thêm check captcha lúc upload video
 - 5.7.4:
   * Fix xpath sửa profile
 - 5.7.3:

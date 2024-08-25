@@ -4,10 +4,12 @@ Download at: https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 Password: 1111
 # Changelogs:
+- 5.7.8:
+  * Fix lỗi không lưu chromedriver sau mỗi lần khởi động lại
 - 5.7.7:
   * Fix xpath nút upload video
 - 5.7.6:
-  * Thêm tự bấm nút upload khi ko upload được video 
+  * Thêm tự bấm nút upload khi ko upload được video
 - 5.7.5:
   * Thêm check captcha lúc upload video
 - 5.7.4:

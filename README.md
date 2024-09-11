@@ -4,6 +4,8 @@ Download at: https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 Password: 1111
 # Changelogs:
+- 5.9.11:
+  * Đổi định dạng số job hoàn thành thành job|cookies
 - 5.9.10:
   * Thêm tính năng lưu số job hoàn thành của tiktok
 - 5.7.9:

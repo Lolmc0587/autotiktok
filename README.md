@@ -4,10 +4,12 @@ Download at: https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 Password: 1111
 # Changelogs:
+- 5.9.10:
+  * Thêm tính năng lưu số job hoàn thành của tiktok
 - 5.7.9:
   * Fix không lưu username mới khi đổi username cookie
   * Cải thiện tốc độ tool bằng cách liên kết thông tin các process bằng socket
-  * Thêm delay gui, dùng khi có nhiêu luồng. Mặc định không nên dùng vì trạng thái sẽ update chậm 
+  * Thêm delay gui, dùng khi có nhiêu luồng. Mặc định không nên dùng vì trạng thái sẽ update chậm
   * Thêm proxy cho chạy api tds/ttc
 - 5.7.8:
   * Fix lỗi không lưu chromedriver sau mỗi lần khởi động lại

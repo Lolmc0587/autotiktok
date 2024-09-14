@@ -4,6 +4,8 @@ Download at: https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 Password: 1111
 # Changelogs:
+- 5.9.14:
+  * Fix phần lấy cookie.
 - 5.9.13:
   * Fix lấy username tiktok
 - 5.9.12:

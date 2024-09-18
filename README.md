@@ -4,6 +4,9 @@ Download at: https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 Password: 1111
 # Changelogs:
+- 5.9.16:
+  * Fix lỗi tool không lưu chromedriver
+  * Fix tool không nhận biết chrome đã khởi động chưa
 - 5.9.15:
   * Fix auto thay acc không khởi động chính xác
 - 5.9.14:

@@ -4,6 +4,9 @@ Download at: https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 Password: 1111
 # Changelogs:
+- 5.9.18:
+  * Xóa tim viddeo trc khi làm nv
+  * Sửa lỗi không lưu được cookies trong tool lấy cookies
 - 5.9.17:
   * Fix lỗi tool bị lag khi khởi động hàng loạt
 - 5.9.16:

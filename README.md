@@ -4,6 +4,8 @@ Download at: https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 Password: 1111
 # Changelogs:
+- 5.9.21:
+  * Fix hiện thông tin khi cmt
 - 5.9.20:
   * Fix cache comment
 - 5.9.19: 

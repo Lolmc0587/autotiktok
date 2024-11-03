@@ -4,6 +4,12 @@ Download at: https://www.mediafire.com/file/y6br4il296fufkb/run_tool.zip/file
 Hoặc cập nhật bằng update.bat
 Password: 1111
 # Changelogs:
+- 5.9.23:
+  * Chỉnh device scale lên 0.3
+  * Fix captcha xoay, chọn loại mới
+- 5.9.22:
+  * Thêm tắt chrome khi dừng
+  * Thêm tải lại job khi đạt số job đã set 
 - 5.9.21:
   * Fix hiện thông tin khi cmt
 - 5.9.20:
